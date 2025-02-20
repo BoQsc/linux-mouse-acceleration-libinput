@@ -1,0 +1,343 @@
+Timestamp: 2025-02-20 10:07:39
+No data collected yet.
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:12:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:17:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:22:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:27:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:32:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:37:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:42:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:47:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:52:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(467.22, 349.67)
+(1401.00, 1289.53)
+(2334.78, 2147.39)
+(3268.56, 3423.08)
+(4202.34, 4282.35)
+(5136.12, 5052.71)
+(6069.90, 5714.78)
+(7937.46, 8193.93)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46722, 0.34967)
+(1.40100, 1.28953)
+(2.33478, 2.14739)
+(3.26856, 3.42308)
+(4.20234, 4.28235)
+(5.13612, 5.05271)
+(6.06990, 5.71478)
+(7.93746, 8.19393)
+
+Calculated step size: 1.06718 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.34967 1.28953 2.14739 3.42308 4.28235 5.05271 5.71478 8.19393
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06718
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
+Timestamp: 2025-02-20 10:57:39
+Libinput Custom Acceleration Profile Points:
+(Input Speed (pixels/sec), Average Pointer Speed (pixels/sec))
+
+(466.97, 329.52)
+(1400.78, 1272.19)
+(2334.59, 2082.66)
+(3268.40, 3423.08)
+(4202.21, 4242.85)
+(5136.02, 5001.09)
+(6069.83, 5714.78)
+(7937.45, 8228.91)
+
+Converted to device units per ms:
+(Input Speed (units/ms), Average Pointer Speed (units/ms))
+
+(0.46697, 0.32952)
+(1.40078, 1.27219)
+(2.33459, 2.08266)
+(3.26840, 3.42308)
+(4.20221, 4.24285)
+(5.13602, 5.00109)
+(6.06983, 5.71478)
+(7.93745, 8.22891)
+
+Calculated step size: 1.06721 (device units/ms)
+
+
+# Suggested xinput commands:
+xinput set-prop "Device Name" "libinput Accel Custom Motion Points" 0.32952 1.27219 2.08266 3.42308 4.24285 5.00109 5.71478 8.22891
+xinput set-prop "Device Name" "libinput Accel Custom Motion Step" 1.06721
+xinput set-prop "Device Name" "libinput Accel Profile Enabled" 0 0 1
+
+--------------------------------------------------------------------------------
